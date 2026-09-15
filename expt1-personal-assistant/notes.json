@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "content": "CS 480 Lab 06 submission deadline is Friday at 11:59 PM.",
+    "tags": [
+      "lab",
+      "deadline",
+      "coursework"
+    ],
+    "timestamp": "2026-09-15T10:00:00.000000"
+  },
+  {
+    "id": 2,
+    "content": "Team meeting regarding Model Context Protocol architecture on Wednesday at 3 PM.",
+    "tags": [
+      "meeting",
+      "mcp",
+      "team"
+    ],
+    "timestamp": "2026-09-15T11:30:00.000000"
+  },
+  {
+    "id": 3,
+    "content": "Automated verification test note #101",
+    "tags": [
+      "test",
+      "automated"
+    ],
+    "timestamp": "2026-09-15T20:18:00.944244"
+  },
+  {
+    "id": 4,
+    "content": "Automated verification test note #101",
+    "tags": [
+      "test",
+      "automated"
+    ],
+    "timestamp": "2026-09-15T20:19:08.140341"
+  }
+]
